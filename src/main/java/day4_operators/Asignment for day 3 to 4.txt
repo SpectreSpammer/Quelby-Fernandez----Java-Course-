@@ -1,5 +1,5 @@
 Create a java class named EmployeeManagementSystem
--- Inside the class, create variables to store information for three employees. For each employee, you should have:
+-- Inside the class, create variables to store information for the employees. For each employee, you should have:
 
    Name (String)
    Age (int)
